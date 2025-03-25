@@ -21,12 +21,15 @@ The dataset was imported into Power BI and some data cleansing tasks were perfor
 
 [4] Some other minor data cleaning tasks (for example replace inconsistent skill values , "power_bi" and "power bi" are supposed to mean the same.
 
+[5] Some measures were also created (for example, average pay, number of job postings and % skills count to % postings count for use in a matrix visual)
+
 Data Visualization
 
 I followed the course instructor and the exercises to create different visualizations to analyze job postings by time, by title, job skills sought by job title, and average pay versus experience, identifying companies with large number of job postings.
 
 A significant part of the exercise also involved cleaning up and formatting the visuals appropriately, using images provided as background and creating a "Home" tab with icons serving as bookmarks. 
 This provided a consistent look and feel for the visuals and also made navigation between the home tab and the respective tabs easier.
+The report pages were filtered to consider key job titles of data analyst, data scientist, data science manager, data engineer, research engineer and business analyst, data architect and machine learning engineer
 
 Here are screenshots from the dashboard.
 
